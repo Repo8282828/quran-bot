@@ -4,7 +4,7 @@ import asyncio
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import ApplicationBuilder, CommandHandler, CallbackQueryHandler, ContextTypes
 
-TOKEN = "PUT_TOKEN_HERE"
+TOKEN = "8707181938:AAF7d5i5NuRGAXIo_IHFVTmYTeeDHMBXGb0"
 
 DEFAULT_INTERVAL = 5 * 3600
 chat_intervals = {}
